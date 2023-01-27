@@ -1,0 +1,23 @@
+{
+  "name": "lightness",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000l\u0000i\u0000g\u0000h\u0000t\u0000n\u0000e\u0000s\u0000s\u0000-\u0000m\u00005\u00000\u00001\u0000\r\u0000 \u0000",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "browserslist": "> 0.25%, not dead",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxReii/lightness-m501.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxReii/lightness-m501/issues"
+  },
+  "homepage": "https://github.com/MaxReii/lightness-m501#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
